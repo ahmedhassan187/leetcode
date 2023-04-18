@@ -20,6 +20,11 @@ Problems from [Grind 75](https://www.techinterviewhandbook.org/grind75) which is
 
 **Solved Problems** 73 Problem
 
+## Badges
+
+![Badge](https://leetcode.com/static/images/badges/2023/gif/2023-03.gif)
+
+
 **Solved By** Ahmed Hassan
 
 **E-mail** ahmedhassann187@gmail.com
