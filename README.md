@@ -7,7 +7,7 @@ these problems are solved by
 - C++
 ## folders
  - random folder
- - folder contain problems from **Grind 75 questions** 
+ - folder contain problems from **Grind 75 questions**    
 ### first folder
 Random Problems from **Dialy Challenge** on leetcode
 ### second folder
